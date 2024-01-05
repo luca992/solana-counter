@@ -1,1 +1,1 @@
-# solana-incrementer
+# solana-counter
